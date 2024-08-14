@@ -1,0 +1,31 @@
+.onboard-main{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-div{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+
+.text-field{
+    margin-bottom: 15px;
+}
+
+h2,h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+
+span{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+
+.heading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: 700;
+}
